@@ -1,0 +1,81 @@
+# PROMPTS CRIADOS -
+
+- ROTEIRO
+Você é um roteirista de podcast, e vamos criar um podcast de tecnologia, focado em Python e eu gostaria de uma ajuda sua para criar 5 sugestões 
+de nomes criativos para um podcast de Python feito por nerds, e que tenha algum trocadilho nerd no nome 
+
+O podcast vai falar sobre dicas e novidades sobre o mundo python e o que está acontecendo no mercado 
+
+{REGRAS}
+
+- O nome deve ser enxuto, um nome e um subtítulo
+- O nome tenha algum trocadilho nerd com nomes de franquias conhecidas como harry potter, star wars ou senhor dos anéis
+- O nome deve conter alguma palavra forte que remeta o python 
+
+{REGRAS NEGATIVAS}
+
+- Não quero que o título contenha palavras em inglês
+- Não quero que utilize nenhuma das palavras nessa lista: Javascript, programador
+- Não utilize a palavra python no nome nem qualquer variação dela
+
+>>>  A Sociedade da Serpente
+Subtítulo: Onde o código é épico e indentado com honra
+
+🧝 Trocadilho com “A Sociedade do Anel” + “serpente” como símbolo do Python <<<
+----------------------------------------------------------------------------------------------
+- ARTISTA E REGRAS 
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em Python cujo o nome é "A Sociedade da Serpente - Onde o código é épico e indentado com honra" e tem foco em python,  com o público alvo de iniciantes em python 
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de Python 
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para Python 
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Adilan e esse foi a Sociedade da Serpente dessa semana' 
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada Adilan 
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+---------------------------------------------------------------------
+
+🎙️ Roteiro: Episódio 1 – A Magia da Simplicidade em Python
+[INTRODUÇÃO]
+Fala, galeraaaa! Tudo bem com vocês?
+Chega mais, porque hoje a gente vai desbravar o universo da serpente mais poderosa do mundo da programação!
+Se você sempre achou que código era coisa de outro planeta, relaxa… aqui a gente traduz tudo pra linguagem dos magos, jedis e hobbits do teclado.
+Eu sou o Adilan, e você está na Sociedade da Serpente, onde o código é épico e, claro… indentado com honra!
+
+[CURIOSIDADE 1]
+Sabia que o Python foi criado com a ideia de ser simples e bonito?
+É sério! Uma das filosofias da linguagem é: “Código bonito é melhor que código feio.”
+Tipo um feitiço bem lançado: funciona e ainda impressiona.
+E olha que legal — o Python é tão organizado que usa a indentação como parte da estrutura do código.
+Nada de chaves ou parênteses espalhados! Aqui, o espaço conta. Ou seja, escrever código em Python é quase como escrever poesia... só que com lógica.
+
+[CURIOSIDADE 2]
+Agora se liga nessa dica de ferramenta: Jupyter Notebook.
+Esse nome até parece feitiço do Harry Potter, né? Mas na real, é um ambiente onde você pode escrever seu código, rodar trechos separados e ainda colocar anotações como se fosse um diário de bruxo.
+É perfeito pra quem tá começando, porque você vê o que tá funcionando, o que não tá, e ainda pode misturar código com texto explicando.
+É usado por cientistas, estudantes, e por quem tá aprendendo também. Sério, vale ouro!
+
+[FINALIZAÇÃO]
+E aí, curtiu a jornada de hoje?
+Se você já tinha medo de codar, espero que agora encare o Python como a sua varinha mágica.
+Semana que vem tem mais dicas, curiosidades e segredos do mundo da serpente.
+Eu sou Adilan e esse foi a Sociedade da Serpente dessa semana.
+Valeu e até lá, jovem padawan do código!
+------------------------------------------------------------------------
+
+- AUDIO DO POADCAST -
+https://drive.google.com/file/d/16QlMRC6lm1NmfsjoROzvBJpNnfl7mYmU/view?usp=drive_link 
+-----------------------------------------------------------
